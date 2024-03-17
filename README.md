@@ -1,4 +1,4 @@
-## Short Movie App Sample
+# Short Movie App Sample
 
 ## Description
 This Flutter app is akin to TikTok, featuring a vertical, scrollable short movie UI. While not aimed for actual deployment, it showcases the potential for creating engaging social video experiences in Flutter.
